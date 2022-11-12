@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/eagletrt/.github/blob/master/images/logo_transparent.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eagletrt/.github/master/images/logo_transparent.png">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eagletrt/.github/master/images/logo_filled.png">
-  <img src="https://raw.githubusercontent.com/eagletrt/.github/master/images/logo_filled.png" width=110 height=100>
+  <img src="https://raw.githubusercontent.com/eagletrt/.github/master/images/logo_filled.png" width=100 height=100>
   </picture>
 </div>
 
