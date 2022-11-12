@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="images/logo.png" width=100 height=100>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="../images/logo_transparent.png">
+    <source media="(prefers-color-scheme: light)" srcset="../images/logo_filled.png">
+  <img src="../images/logo_filled.png" width=100 height=100>
+  </picture>
 </div>
 
 <div align="center">
