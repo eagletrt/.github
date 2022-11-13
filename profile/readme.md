@@ -11,8 +11,8 @@
 </div>
 
 **E-Agle Trento** is a racing team composed of *more than 70 students*, working
-closely together to design, develop and realize innovative prototypes for* the
-Formula SAE competition. We are driven by *passion for cars and engineering.
+closely together to design, develop and realize innovative prototypes for *the
+Formula SAE* competition. We are driven by **passion for cars and engineering**.
 Following closely the Formula SAE spirit we work together to solve problems and
 share ideas, incentivising "cross-pollination" between different working groups.
 
