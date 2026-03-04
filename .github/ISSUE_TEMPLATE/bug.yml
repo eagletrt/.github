@@ -1,6 +1,8 @@
 name: Bug Report
 description: Describe a bug in the code that need to be fixed.
 title: "bug: <insert a descriptive title here>"
+labels: ["bug"]
+type: Bug
 
 body:
 - type: textarea

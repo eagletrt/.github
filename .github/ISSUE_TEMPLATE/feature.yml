@@ -1,6 +1,7 @@
 name: Feature Request
 description: Request a new feature which has yet to be implemented inside the codebase.
 title: "feat: <insert a descriptive title here>"
+type: Feature
 
 body:
 - type: textarea

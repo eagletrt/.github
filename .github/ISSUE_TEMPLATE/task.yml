@@ -1,6 +1,7 @@
 name: Task
 description: Describe a generic task, something that has to be done which is neither a bug nor a new feature.
 title: "task: <insert a descriptive title here>"
+type: Task
 
 body:
 - type: textarea
