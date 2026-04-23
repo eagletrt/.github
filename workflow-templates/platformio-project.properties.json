@@ -1,0 +1,8 @@
+{
+    "name": "PlatformIO Project CI",
+    "description": "PlatformIO Project CI workflow template.",
+    "iconName": "octicon cpu",
+    "filePatterns": [
+        "^platformio.ini"
+    ]
+}

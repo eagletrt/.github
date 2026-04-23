@@ -1,0 +1,8 @@
+{
+    "name": "PlatformIO Library",
+    "description": "PlatformIO Library workflow template.",
+    "iconName": "octicon repo",
+    "filePatterns": [
+        "^library.json"
+    ]
+}
