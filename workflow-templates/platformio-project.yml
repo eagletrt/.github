@@ -6,15 +6,15 @@ on:
       - '**'
   pull_request:
     branches:
-      - $default-branch
+      - master
       - dev
 
 jobs:
   build:
-  runs-on:
-    group: ci-runners
-    labels: Linux
-    continue-on-error: ${{ !(github.ref == 'refs/heads/$default-branch' || github.ref == 'refs/heads/dev') }}
+    runs-on:
+      group: ci-runners
+      labels: Linux
+    continue-on-error: ${{ !(github.ref == 'refs/heads/master' || github.ref == 'refs/heads/dev') }}
 
     steps:
       - uses: actions/checkout@v4
